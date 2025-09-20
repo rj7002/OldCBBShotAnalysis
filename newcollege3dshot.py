@@ -41,7 +41,7 @@ import plotly.graph_objects as go
 import numpy as np
 from random import randint
 # Set your Google Cloud project ID
-project_id = 'noted-processor-428716-i9'
+project_id = ''
 
 # SQL query - adjust based on your needs
 st.set_page_config(page_title='Old CBB Shot Analysis',page_icon='🏀')
